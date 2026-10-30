@@ -11,13 +11,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mawaz-dev&label=Profile%20Views&base=1086&color=E8832A&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mawaz-dev?style=for-the-badge&logo=github&color=E8832A&labelColor=0D1117)
-
-<br/>
-
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-E8832A?style=for-the-badge&labelColor=0D1117)](mailto:mawazabdulsalam@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download%20CV-⬇-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117&logoColor=white)](#)
-
+<br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8832A,100:F4A259&height=3" width="100%" alt="divider" />
