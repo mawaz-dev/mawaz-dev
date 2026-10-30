@@ -8,12 +8,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Graduate%20%7C%20AI%20and%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor=9be7ff" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=9BE7FF&center=true&vCenter=true&width=620&height=40&lines=Building+intelligent+software+%F0%9F%A7%A0;Turning+ideas+into+working+products+%E2%9A%99%EF%B8%8F;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=9BE7FF&center=true&vCenter=true&width=620&height=40&lines=Building+intelligent+software+%F0%9F%A7%A0;Turning+ideas+into+working+products+%E2%9A%99%EF%B8%8F;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=2c5364&style=flat-square" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=2c5364&style=flat-square&base=1172" alt="views"/>
 <img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=2c5364&logo=github" alt="followers"/>
 <img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=2c5364&logo=github" alt="stars"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
@@ -88,3 +88,4 @@ Trading and charting project. Full details are in the repository.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer"/>
+
