@@ -47,20 +47,6 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com/?user=abeymuwz&theme=transparent&hide_border=true&ring=9be7ff&fire=ff9f43&currStreakLabel=9be7ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/9be7ff/abeymuwz" width="95%" alt="contribution chart"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <table>
