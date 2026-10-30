@@ -10,19 +10,15 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=9BE7FF&center=true&vCenter=true&width=620&height=40&lines=Building+intelligent+software+%F0%9F%A7%A0;Turning+ideas+into+working+products+%E2%9A%99%EF%B8%8F;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=2c5364&style=flat-square&base=1172" alt="views"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
-
 </div>
-
 <br/>
 
 ## 👋 About
 
-I'm **Mawaz**, a Computer Science graduate (**BSCS, University of Lahore**, 2022–2026) from **Lahore, Pakistan**.
+I'm **Mawaz Abdul Salam**, a Computer Science graduate (**BSCS**, 2022–2026) from **Lahore, Pakistan**.
 
 I enjoy building practical software with a focus on **AI, web applications, and clean engineering**. I'm looking for opportunities where I can ship real products and keep growing.
 
@@ -66,6 +62,7 @@ An end-to-end autonomous smart wheelchair designed as assistive technology. Feat
 
 Trading and charting tool that turns market data into clear, interactive visuals for faster, better-informed decisions.
 Built to keep price analysis simple, fast, and easy to read at a glance..
+<img src="https://skillicons.dev/icons?i=ros,HTML5,CSS,react,firebase" alt="wheelchair tech"/>
 
 [**View repository →**](https://github.com/abeymuwz/Plottrade)
 
