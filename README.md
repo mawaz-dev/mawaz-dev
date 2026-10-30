@@ -1,4 +1,4 @@
-<!-- Replace every YOUR_USERNAME with your GitHub username -->
+<!-- Replace every mawaz-dev with your GitHub username -->
 
 <div align="center">
 
@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D5DFB&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6D5DFB&labelColor=0A0A23)
+![Profile Views](https://komarev.com/ghpvc/?username=mawaz-dev&label=Profile%20Views&color=6D5DFB&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mawaz-dev?style=for-the-badge&logo=github&color=6D5DFB&labelColor=0A0A23)
 
 <br/>
 
@@ -73,12 +73,12 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&icon_color=6D5DFB&text_color=C9D1D9&ring_color=8B5CF6" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mawaz-dev&show_icons=true&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&icon_color=6D5DFB&text_color=C9D1D9&ring_color=8B5CF6" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawaz-dev&layout=compact&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0A0A23&ring=8B5CF6&fire=6D5DFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mawaz-dev&hide_border=true&background=0A0A23&ring=8B5CF6&fire=6D5DFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
 
 </div>
 
@@ -139,7 +139,7 @@ Short one-line description of what it does and why it matters.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/mawaz-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=8B5CF6)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-0A0A23?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:mawazabdulsalam@gmail.com)
 
