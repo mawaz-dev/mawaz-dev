@@ -5,18 +5,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,50:0f3d2a,100:14532d&height=220&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Graduate%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descSize=22&descAlignY=62&descColor=9be7ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=BSCS%20Graduate%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descSize=22&descAlignY=62&descColor=9be7ff" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=620&height=40&lines=Securing+systems%2C+one+vulnerability+at+a+time+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+and+Ethical+Hacking+Enthusiast+%F0%9F%94%90;Building+intelligent+software+with+AI+%F0%9F%A7%A0;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&height=40&lines=Securing+systems%2C+one+vulnerability+at+a+time+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+and+Ethical+Hacking+Enthusiast+%F0%9F%94%90;Building+intelligent+software+with+AI+%F0%9F%A7%A0;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=14532d&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=14532d&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=14532d&logo=github" alt="stars"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
+<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=302b63&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=302b63&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=302b63&logo=github" alt="stars"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00b8a9?style=flat-square" alt="status"/>
 
 </div>
 
@@ -125,4 +125,4 @@ Trading and charting project. Full details are in the repository.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,50:0f3d2a,100:14532d&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=26&fontColor=00f5ff&fontAlignY=68&animation=twinkling" width="100%" alt="footer"/>
