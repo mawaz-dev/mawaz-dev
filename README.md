@@ -111,7 +111,7 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
   </td>
   <td width="50%" valign="top">
 
-### `02` Project Name
+### `02` Plottrade
 Short one-line description of what it does and why it matters.
 
 ![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
