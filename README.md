@@ -2,24 +2,28 @@
 
 <div align="center">
 
-# Mawaz Abdul Salam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1f6feb&height=200&section=header&text=Mawaz%20Abdul%20Salam&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%7C%20Web%20%7C%20Cybersecurity&descSize=18&descAlignY=62&descColor=cfe3ff" width="100%" alt="header"/>
 
-**Software Engineer · AI & Web Development · Cybersecurity**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=1F6FEB&center=true&vCenter=true&width=560&height=36&lines=BSCS+Graduate+%7C+University+of+Lahore;Building+robotics%2C+AI+and+web+products;Learning+ethical+hacking+and+secure+design;Open+to+full-time+roles+and+internships" alt="typing"/>
 
-BSCS Graduate, University of Lahore · Lahore, Pakistan
+<br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/About-1f3a5f?style=for-the-badge" alt="About"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-1f3a5f?style=for-the-badge" alt="Projects"/></a>
-<a href="#skills"><img src="https://img.shields.io/badge/Skills-1f3a5f?style=for-the-badge" alt="Skills"/></a>
-<a href="#cybersecurity"><img src="https://img.shields.io/badge/Cybersecurity-1f3a5f?style=for-the-badge" alt="Cybersecurity"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-1f3a5f?style=for-the-badge" alt="Contact"/></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-0a2540?style=for-the-badge" alt="About"/></a>
+<a href="#highlights"><img src="https://img.shields.io/badge/Highlights-0a2540?style=for-the-badge" alt="Highlights"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0a2540?style=for-the-badge" alt="Projects"/></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-0a2540?style=for-the-badge" alt="Skills"/></a>
+<a href="#cybersecurity"><img src="https://img.shields.io/badge/Cybersecurity-0a2540?style=for-the-badge" alt="Cybersecurity"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-1f6feb?style=for-the-badge" alt="Contact"/></a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Status-Open_to_work-2ea44f?style=flat-square" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=Profile+views&color=1f3a5f&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Location-Lahore%2C_Pakistan-0a2540?style=flat-square" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=Profile+views&color=1f6feb&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
 ## About
 
@@ -27,11 +31,43 @@ I'm a Computer Science graduate who builds practical, working software. My proje
 
 | | |
 |---|---|
-| **Education** | BSCS, University of Lahore (Batch Fall 2022–2026) |
-| **Location** | Lahore, Pakistan |
-| **Focus** | AI/ML, full-stack web, robotics, cybersecurity |
-| **Availability** | Open to full-time roles, internships and collaboration |
-| **Email** | mawazabdulsalam@gmail.com |
+| 🎓 **Education** | BSCS, University of Lahore (Batch Fall 2022–2026) |
+| 📍 **Location** | Lahore, Pakistan |
+| 🎯 **Focus** | AI/ML, full-stack web, robotics, cybersecurity |
+| 💼 **Availability** | Open to full-time roles, internships and collaboration |
+| ✉️ **Email** | mawazabdulsalam@gmail.com |
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+
+## Highlights
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🤖 Robotics and IoT
+
+Built an autonomous wheelchair on ROS 2, Raspberry Pi 4 and 2D LiDAR with SLAM navigation and fall detection.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌐 Full-stack products
+
+Shipped Plottrade, a live real estate marketplace, plus dashboards and admission and e-commerce platforms.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧠 AI and security
+
+Machine learning and NLP apps, with growing hands-on interest in ethical hacking and secure design.
+
+</td>
+</tr>
+</table>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -55,6 +91,10 @@ I'm a Computer Science graduate who builds practical, working software. My proje
 
 ## Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" alt="languages"/>
@@ -62,6 +102,9 @@ I'm a Computer Science graduate who builds practical, working software. My proje
 **Web and backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask" alt="web"/>
+
+</td>
+<td width="50%" valign="top">
 
 **AI / ML and robotics**
 <br/>
@@ -71,13 +114,27 @@ I'm a Computer Science graduate who builds practical, working software. My proje
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker,git,linux" alt="tools"/>
 
+</td>
+</tr>
+</table>
+
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
 ## Cybersecurity
 
-Actively building skills in web application security (OWASP Top 10), network traffic analysis, and penetration testing fundamentals, using Kali Linux, Nmap, Wireshark and Burp Suite, with Bash and Python for scripting. I practice ethical hacking only on systems I own or have explicit permission to test.
+Actively building skills in web application security (OWASP Top 10), network traffic analysis, and penetration testing fundamentals.
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+> [!NOTE]
+> I practice ethical hacking only on systems I own or have explicit permission to test.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -85,7 +142,12 @@ Actively building skills in web application security (OWASP Top 10), network tra
 
 ## Contact
 
-I reply to emails fastest.
+> [!TIP]
+> Email is the fastest way to reach me. I'm open to full-time roles, internships and project collaboration.
 
-<a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Email-mawazabdulsalam@gmail.com-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Email-mawazabdulsalam@gmail.com-0a2540?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/search/results/people/?keywords=Mawaz%20Abdul%20Salam"><img src="https://img.shields.io/badge/LinkedIn-Mawaz_Abdul_Salam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1f6feb&height=100&section=footer" width="100%" alt="footer"/>
