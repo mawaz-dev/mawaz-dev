@@ -69,20 +69,6 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mawaz-dev&show_icons=true&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&icon_color=6D5DFB&text_color=C9D1D9&ring_color=8B5CF6" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawaz-dev&layout=compact&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mawaz-dev&hide_border=true&background=0A0A23&ring=8B5CF6&fire=6D5DFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
