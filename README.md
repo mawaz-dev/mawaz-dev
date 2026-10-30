@@ -60,9 +60,9 @@ An end-to-end autonomous smart wheelchair designed as assistive technology. Feat
 
 ### 📈 [Plottrade](https://github.com/abeymuwz/Plottrade)
 
-Trading and charting tool that turns market data into clear, interactive visuals for faster, better-informed decisions.
-Built to keep price analysis simple, fast, and easy to read at a glance. Designed as a practical way to explore trading ideas and sharpen chart-reading skills.
-<img src="https://skillicons.dev/icons?HTML,CSS,react,python" alt="plottrade tech"/>
+Trading and charting tool that turns market data into clear, interactive visuals for better-informed decisions.
+Built to keep price analysis easy to read at glance. Designed as practical way to explore trading ideas and sharpen chart-reading skills.
+<img src="https://skillicons.dev/icons?i=ros,HTML,CSS,react,python" alt="plottrade tech"/>
 
 [**View repository →**](https://github.com/abeymuwz/Plottrade)
 
