@@ -69,6 +69,46 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 ---
 
+## 🛡️ Cybersecurity
+
+```bash
+$ whoami
+mawaz — CS student • security learner • curious by default
+
+$ cat focus.txt
+Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
+```
+
+| Domain | What I've studied |
+|:--|:--|
+| 🔑 **Cryptography** | RSA, digital signatures |
+| 🧱 **Access Control** | Access control matrices, Bell-LaPadula model |
+| 🚨 **Detection** | Intrusion Detection Systems (IDS) |
+| 🕵️ **Threat Intelligence** | Cyber Threat Intelligence (CTI) concepts |
+
+**Tools & platforms**
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0A0A23?style=for-the-badge&logo=kalilinux&logoColor=8B5CF6)
+![Wireshark](https://img.shields.io/badge/Wireshark-0A0A23?style=for-the-badge&logo=wireshark&logoColor=8B5CF6)
+![Nmap](https://img.shields.io/badge/Nmap-0A0A23?style=for-the-badge&logoColor=8B5CF6)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0A0A23?style=for-the-badge&logo=portswigger&logoColor=8B5CF6)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0A23?style=for-the-badge&logo=tryhackme&logoColor=8B5CF6)
+
+</div>
+
+**Certifications**
+
+<div align="center">
+
+![Google Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-6D5DFB?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A23)
+![ADBI Cybersecurity](https://img.shields.io/badge/ADBI-Cybersecurity-6D5DFB?style=for-the-badge&labelColor=0A0A23)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
