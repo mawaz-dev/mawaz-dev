@@ -102,9 +102,9 @@ An end-to-end autonomous smart wheelchair designed as assistive technology. Feat
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Plottrade](https://github.com/abeymuwz/Plottrade)
+### 🏠 [Plottrade](https://github.com/abeymuwz/Plottrade)
 
-Trading and charting project. Full details are in the repository.
+A real estate marketplace for realtors, buyers and landlords. Live at [plottrade.aavys.app](https://plottrade.aavys.app/).
 
 [**View repository →**](https://github.com/abeymuwz/Plottrade)
 
@@ -126,3 +126,4 @@ Trading and charting project. Full details are in the repository.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=26&fontColor=00f5ff&fontAlignY=68&animation=twinkling" width="100%" alt="footer"/>
+
