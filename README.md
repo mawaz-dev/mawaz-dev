@@ -1,18 +1,18 @@
-<!-- Theme: jacket gradient (orange -> cream -> denim blue). Colors shift section by section as you scroll. -->
+<!-- Theme: hacker terminal (matrix green -> teal -> cyan). Colors shift section by section as you scroll. -->
 <a id="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8832A,50:E6CFA9,100:3E6FB0&height=200&section=header&text=Hi,%20I'm%20Mawaz&fontSize=52&fontColor=0D1117&fontAlignY=38&desc=I%20build%20things%20with%20code.&descSize=22&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D2E,100:00FF41&height=210&section=header&text=Hi,%20I'm%20Mawaz&fontSize=52&fontColor=00FF41&fontAlignY=38&desc=root@mawaz:~%23%20I%20build%20things%20with%20code&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A259&center=true&vCenter=true&width=520&lines=BSCS+Student+%7C+University+of+Lahore;Autonomous+Navigation+%26+AI+Enthusiast;Cybersecurity+Learner;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=%3E+whoami;%3E+BSCS+Student+%7C+University+of+Lahore;%3E+Autonomous+Navigation+%26+AI;%3E+Cybersecurity+Learner;%3E+sudo+build+--future" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mawaz-dev&label=Profile%20Views&base=1086&color=E8832A&style=for-the-badge)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-E8832A?style=for-the-badge&labelColor=0D1117)](mailto:mawazabdulsalam@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=mawaz-dev&label=Profile%20Views&base=1086&color=00FF41&style=for-the-badge)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-00FF41?style=for-the-badge&labelColor=000000)](mailto:mawazabdulsalam@gmail.com)
 
 <br/>
 
@@ -20,27 +20,29 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8832A,100:F4A259&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:39FF14&height=3" width="100%" alt="divider" />
 
 <a id="about"></a>
-## 🟧 `</>` About Me
+## 🟩 `</>` About Me
 
-```js
-const developer = {
-  name: "Mawaz Abdulsalam",
-  education: "BSCS, University of Lahore",
-  graduation: 2026,
-  interests: ["Autonomous Systems", "AI / ML", "NLP", "Cybersecurity"],
-  passion: "Building things that make a difference",
-};
+```bash
+┌──(mawaz㉿kali)-[~]
+└─$ cat about.json
+{
+  "name": "Mawaz Abdulsalam",
+  "education": "BSCS, University of Lahore",
+  "graduation": 2026,
+  "interests": ["Autonomous Systems", "AI / ML", "NLP", "Cybersecurity"],
+  "passion": "Building things that make a difference"
+}
 ```
 
 I'm a Computer Science student who enjoys turning ideas into working software. My Final Year Project focuses on **autonomous wheelchair path navigation**, and I'm especially interested in AI/ML, voice and NLP interfaces, and information security.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A259,100:E6CFA9&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00E676&height=3" width="100%" alt="divider" />
 
 <a id="skills"></a>
-## 🟠 Tech Stack
+## 🟢 Tech Stack
 
 <div align="center">
 
@@ -65,9 +67,9 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A259,100:E6CFA9&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00E676&height=3" width="100%" alt="divider" />
 
-## 🟨 Areas I Master
+## 🟩 Areas I Master
 
 | Area | Topics |
 |:--|:--|
@@ -77,7 +79,7 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 | 🔐 **Security** | Cyber threat intelligence, RSA, access control, IDS |
 | 🧪 **Software Testing** | Requirements specs, test design |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6CFA9,100:7FA8D9&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:00C9A7&height=3" width="100%" alt="divider" />
 
 <a id="cybersecurity"></a>
 ## 🛡️ Cybersecurity
@@ -113,10 +115,10 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FA8D9,100:5B8BC9&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:00B8D4&height=3" width="100%" alt="divider" />
 
 <a id="projects"></a>
-## 🔵 Featured Projects
+## 🟢 Featured Projects
 
 <div align="center">
 
@@ -128,32 +130,41 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 <a id="project-01"></a>
 ### `01` Smart Assistant for Autonomous Wheelchair Path Navigation
+
+<a href="https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahimzulfiqar&repo=ROS2-Autonomous-Wheelchair&hide_border=false&border_radius=12&bg_color=000000&border_color=0097A7&title_color=00C9A7&icon_color=00B8D4&text_color=C9D1D9&show_owner=true" alt="FYP repo card" />
+</a>
+
 Final Year Project: an autonomous wheelchair navigation system built on ROS2. I worked on the **database**, **NLP**, and **voice** components.
 
-![ROS2](https://img.shields.io/badge/ROS2-0D1117?style=flat-square&logo=ros&logoColor=5B8BC9)
-![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&logoColor=5B8BC9)
-![Voice](https://img.shields.io/badge/Voice-0D1117?style=flat-square&logoColor=5B8BC9)
-![SQL](https://img.shields.io/badge/Database-0D1117?style=flat-square&logo=postgresql&logoColor=5B8BC9)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00B8D4?style=flat-square&logoColor=white)
+![Voice](https://img.shields.io/badge/Voice-0097A7?style=flat-square&logoColor=white)
+![Database](https://img.shields.io/badge/Database-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View%20Project-↗-5B8BC9?style=for-the-badge&labelColor=0D1117)](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair)
+[![View Project](https://img.shields.io/badge/View%20Project-↗-00B8D4?style=for-the-badge&labelColor=000000)](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair)
 
   </td>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" align="center">
 
 <a id="project-02"></a>
 ### `02` Plottrade
+
+<a href="https://github.com/mawaz-dev/Plottrade">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mawaz-dev&repo=Plottrade&hide_border=false&border_radius=12&bg_color=000000&border_color=0097A7&title_color=00C9A7&icon_color=00B8D4&text_color=C9D1D9&show_owner=true" alt="Plottrade repo card" />
+</a>
+
 [One line: what Plottrade does and who it's for.] [One line: your role and what you built.]
 
-![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
-![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
-![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
+![Tech](https://img.shields.io/badge/Tech-00B8D4?style=flat-square&logoColor=white)
+![Tech](https://img.shields.io/badge/Tech-0097A7?style=flat-square&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View%20Project-↗-5B8BC9?style=for-the-badge&labelColor=0D1117)](https://github.com/mawaz-dev/Plottrade)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-●-3E6FB0?style=for-the-badge&labelColor=0D1117)](#)
+[![View Project](https://img.shields.io/badge/View%20Project-↗-00B8D4?style=for-the-badge&labelColor=000000)](https://github.com/mawaz-dev/Plottrade)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-●-0097A7?style=for-the-badge&labelColor=000000)](#)
 
   </td>
   </tr>
@@ -165,7 +176,7 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E6FB0,100:2F5D9B&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0097A7,100:00796B&height=3" width="100%" alt="divider" />
 
 <a id="contact"></a>
 ## 🤝 Let's Work Together
@@ -175,23 +186,23 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 
 <div align="center">
 
-[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-↗-3E6FB0?style=for-the-badge&labelColor=0D1117)](mailto:mawazabdulsalam@gmail.com)
+[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-↗-0097A7?style=for-the-badge&labelColor=000000)](mailto:mawazabdulsalam@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F5D9B,100:284F87&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00796B,100:00695C&height=3" width="100%" alt="divider" />
 
 ## 🌐 Follow Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5B8BC9)](https://github.com/mawaz-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5B8BC9)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=5B8BC9)](mailto:mawazabdulsalam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00B8D4)](https://github.com/mawaz-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00B8D4)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00B8D4)](mailto:mawazabdulsalam@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:284F87,100:1F4478&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00695C,100:004D40&height=3" width="100%" alt="divider" />
 
 ## 📌 Quick Info
 
@@ -205,18 +216,19 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 | 📫 **Reach me** | [mawazabdulsalam@gmail.com](mailto:mawazabdulsalam@gmail.com) |
 | ⚡ **Fun fact** | I turn coffee and curiosity into code |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4478,100:0D1117&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D40,100:000000&height=3" width="100%" alt="divider" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7FA8D9&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together;Star+%E2%AD%90+a+repo+if+you+liked+it;Stay+curious.+Keep+shipping." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=%3E+Thanks+for+stopping+by!;%3E+Let's+build+something+great+together;%3E+git+star+--if-you-liked-it;%3E+Stay+curious.+Keep+shipping.;%3E+connection+closed+%5B+exit+0+%5D" alt="Footer typing" />
 
 <br/><br/>
 
 [⬆ Back to top](#top)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E6FB0,50:1F4478,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0097A7,50:004D40,100:000000&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=00FF41&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 
 <sub>© 2026 Mawaz Abdulsalam. All rights reserved.</sub>
 
 </div>
+
