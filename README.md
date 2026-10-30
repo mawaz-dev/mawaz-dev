@@ -98,32 +98,6 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 
 </div>
 
-**Certifications**
-
-<div align="center">
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-7FA8D9?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
-![ADBI Cybersecurity](https://img.shields.io/badge/ADBI-Cybersecurity-7FA8D9?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FA8D9,100:5B8BC9&height=3" width="100%" alt="divider" />
-
-## 🔷 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mawaz-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FA8D9&icon_color=5B8BC9&text_color=C9D1D9&ring_color=7FA8D9" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawaz-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=7FA8D9&text_color=C9D1D9" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mawaz-dev&hide_border=true&background=0D1117&ring=7FA8D9&fire=5B8BC9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B8BC9,100:3E6FB0&height=3" width="100%" alt="divider" />
-
 ## 🔵 Featured Projects
 
 <table>
@@ -146,8 +120,6 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 Short one-line description of what it does and why it matters.
 
 ![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
-
-[View Project ↗](#)
 
   </td>
   </tr>
