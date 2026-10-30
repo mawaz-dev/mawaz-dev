@@ -1,52 +1,105 @@
-<!-- ============ REPLACE BEFORE PUSHING ============
-  abeymuwz -> your GitHub username (find & replace all)
-  Social links  -> your real URLs; delete any you don't use
-=================================================== -->
+<!-- This file goes in a PUBLIC repo named exactly like your username: github.com/abeymuwz/abeymuwz -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:4a0e0e,100:8b1a1a&height=240&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=BSCS%20Graduate%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descSize=22&descAlignY=62&descColor=ffd6a5" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Mawaz%20Abdul%20Salam&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Full-Stack%20Developer&descSize=22&descAlignY=60&descColor=9be7ff" width="100%" alt="Mawaz Abdul Salam, Cybersecurity, AI, Full-Stack Developer"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=620&height=40&lines=Securing+systems%2C+one+vulnerability+at+a+time+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+and+Ethical+Hacking+Enthusiast+%F0%9F%94%90;Building+intelligent+software+with+AI+%F0%9F%A7%A0;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=640&height=40&lines=Securing+systems%2C+one+vulnerability+at+a+time+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+and+ethical+hacking+enthusiast+%F0%9F%94%90;Building+intelligent+software+with+AI+%F0%9F%A7%A0;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing animation"/>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LHR%20%C2%B7%20Pakistan-0f0c29?style=for-the-badge&logo=googlemaps&logoColor=9be7ff" alt="Lahore, Pakistan"/>
+<img src="https://img.shields.io/badge/BSCS%20%C2%B7%20University%20of%20Lahore-302b63?style=for-the-badge&logo=academia&logoColor=white" alt="BSCS, University of Lahore"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00b8a9?style=for-the-badge" alt="Open to work"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=8b1a1a&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=8b1a1a&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=8b1a1a&logo=github" alt="stars"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
+<a href="https://www.linkedin.com/in/mawaz-abdul-salam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/abeymuwz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.instagram.com/_.mawaz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=302b63&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=302b63&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=302b63&logo=github" alt="Stars"/>
+
+<br/><br/>
+
+<a href="#-about">About</a> &nbsp;▪&nbsp;
+<a href="#-tech-stack">Stack</a> &nbsp;▪&nbsp;
+<a href="#-cybersecurity">Security</a> &nbsp;▪&nbsp;
+<a href="#-featured-projects">Projects</a> &nbsp;▪&nbsp;
+<a href="#-github-stats">Stats</a> &nbsp;▪&nbsp;
+<a href="#-lets-connect">Contact</a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
 
 ## 👋 About
 
-I'm **Mawaz**, a Computer Science graduate (**BSCS, University of Lahore**, 2022–2026) from **Lahore, Pakistan**.
+I'm **Mawaz**, a Computer Science graduate (**BSCS, University of Lahore, 2022–2026**) based in **Lahore, Pakistan**. I build practical software with a focus on **AI, web applications, and clean engineering**, and I'm passionate about **cybersecurity**: understanding how systems break so I can build them to be secure.
 
-I enjoy building practical software with a focus on **AI, web applications, and clean engineering**, and I'm passionate about **cybersecurity and ethical hacking**: understanding how systems break so I can build them to be secure. I'm looking for opportunities where I can ship real products and keep growing.
+I'm looking for opportunities where I can **ship real products** and keep growing.
 
-- 🎓 BSCS Graduate · Batch Fall 2022–2026
-- 📍 Lahore, Pakistan
-- 🌱 Learning: cybersecurity, system design, cloud, advanced AI/ML
-- 🔐 Interested in: ethical hacking, web and network security
-- 📫 **mawazabdulsalam@gmail.com**
+```ts
+const mawaz = {
+  role: "BSCS Graduate · Cybersecurity · AI · Full-Stack",
+  location: "Lahore (LHR), Pakistan 🇵🇰",
+  education: "BSCS, University of Lahore (2022–2026)",
+  focus: ["Cybersecurity", "AI / ML", "Full-Stack Web"],
+  learning: ["System Design", "Cloud", "Advanced AI/ML"],
+  openTo: ["Jobs", "Internships", "Collaborations"],
+  contact: "mawazabdulsalam@gmail.com",
+};
+```
 
-<br/>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🛡️ Secure by design
+Security is part of how I build, from authentication and validation to knowing how attackers think.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧠 AI-driven
+I use machine learning and LLMs to turn real problems into working products, not just demos.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ Full-stack delivery
+From database to deployment, I take features end to end with maintainable code.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,react,nextjs,tailwind,nodejs,express,fastapi,flask&perline=7" alt="languages and frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,postgres,mysql,firebase,docker,aws,git,linux,vscode,figma,postman&perline=7" alt="tools"/>
+| | |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend"/> |
+| **AI / ML & Vision** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and ML"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" alt="Databases"/> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,postman" alt="Tools"/> |
+| **Robotics** | <img src="https://skillicons.dev/icons?i=ros,raspberrypi" alt="Robotics"/> |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
 
 ## 🔐 Cybersecurity
 
@@ -59,7 +112,7 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 - 🕸️ Web application security (OWASP Top 10)
 - 🌐 Network security and traffic analysis
 - 🛡️ Ethical hacking and penetration testing
-- 🐧 Linux, Bash and security scripting
+- 🐧 Linux, Bash, and security scripting
 - 🔑 Secure coding and authentication
 - 🔍 Vulnerability assessment and digital forensics basics
 
@@ -68,14 +121,13 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 **🧪 Tools I'm exploring**
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 
 </td>
 </tr>
@@ -83,7 +135,7 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 > 🛡️ I practice ethical hacking only on systems I own or have explicit permission to test.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -93,18 +145,28 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 ### 🦽 [ROS 2 Autonomous Smart Wheelchair](https://github.com/abeymuwz/ROS-2-Autonomous-Smart-Wheelchair)
 
-An end-to-end autonomous smart wheelchair designed as assistive technology. Features predictive SLAM navigation with 2D LiDAR, real-time MPU6050 fall detection, and a React + Firebase telemetry dashboard with mobile voice control.
+Assistive technology that navigates room to room using 2D LiDAR SLAM and Nav2, detects falls with an IMU, and is controlled by voice from a React + Firebase dashboard that caregivers can monitor.
 
-<img src="https://skillicons.dev/icons?i=ros,raspberrypi,python,react,firebase" alt="wheelchair tech"/>
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
 
 [**View repository →**](https://github.com/abeymuwz/ROS-2-Autonomous-Smart-Wheelchair)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 [Plottrade](https://github.com/abeymuwz/Plottrade)
+### 🏠 [Plottrade](https://github.com/abeymuwz/Plottrade) · [Live](https://plottrade.aavys.app/)
 
-A real estate marketplace for realtors, buyers and landlords. Live at [plottrade.aavys.app](https://plottrade.aavys.app/).
+A real estate marketplace for realtors, buyers, and landlords, with role-based access, Google sign-in, image uploads, and advanced listing search.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 
 [**View repository →**](https://github.com/abeymuwz/Plottrade)
 
@@ -113,62 +175,74 @@ A real estate marketplace for realtors, buyers and landlords. Live at [plottrade
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 [AI Travel Tourist Guide](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)
-
-Uses artificial intelligence to recommend tourist attractions, suggest travel itineraries, and provide personalized travel information.
-
-[**View repository →**](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 [Diabetes Prediction](https://github.com/abeymuwz/Diabetes_prediction)
-
-A web-based application that uses machine learning to predict diabetes risk from user-provided health information such as glucose levels.
-
-[**View repository →**](https://github.com/abeymuwz/Diabetes_prediction)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [E-Commerce Dashboard](https://github.com/abeymuwz/E-Commerce-Dashboard)
-
-A web-based dashboard designed to manage and monitor online business operations efficiently.
-
-[**View repository →**](https://github.com/abeymuwz/E-Commerce-Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎓 [National University Admission Platform](https://github.com/abeymuwz/National-University-Admission-Platform)
 
-A web-based system designed to simplify and streamline the university admission process.
+Helps students track admission deadlines and estimate their chances with university-specific merit formulas, kept fresh by an LLM-powered scraping agent.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/LLM_Agent-7C3AED?style=flat-square" alt="LLM agent"/>
 
 [**View repository →**](https://github.com/abeymuwz/National-University-Admission-Platform)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 💬 [English Sentiment Analysis (NLP)](https://github.com/abeymuwz/English-Sentiment-Analysis-NLP-)
+### 🧭 [AI Travel Tourist Guide](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)
 
-An NLP-based web application that analyzes English text and identifies its emotional tone.
+Uses AI to recommend tourist attractions for any country, state, or city, with a clean, responsive interface.
 
-[**View repository →**](https://github.com/abeymuwz/English-Sentiment-Analysis-NLP-)
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/AI21_Jamba-7C3AED?style=flat-square" alt="AI21 Jamba"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-</td>
-<td width="50%" valign="middle" align="center">
-
-[**See all repositories →**](https://github.com/abeymuwz?tab=repositories)
+[**View repository →**](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)
 
 </td>
 </tr>
 </table>
 
+### 📦 More projects
+
+| Project | What it does | Focus |
+| --- | --- | --- |
+| 🩺 [**Diabetes Prediction**](https://github.com/abeymuwz/Diabetes_prediction) | Web app that predicts diabetes risk from health inputs such as glucose level | ![ML](https://img.shields.io/badge/Machine_Learning-0F766E?style=flat-square) |
+| 💬 [**English Sentiment Analysis**](https://github.com/abeymuwz/English-Sentiment-Analysis-NLP-) | Analyzes English text and identifies its emotional tone | ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square) |
+| 🛒 [**E-Commerce Dashboard**](https://github.com/abeymuwz/E-Commerce-Dashboard) | Dashboard to manage and monitor online business operations | ![Web](https://img.shields.io/badge/Web_Dashboard-0EA5E9?style=flat-square) |
+
+<div align="center">
+
+[**Browse all repositories →**](https://github.com/abeymuwz?tab=repositories)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abeymuwz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeymuwz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
+
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=abeymuwz&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abeymuwz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abeymuwz&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=9be7ff&line=0EA5E9&point=ffffff" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
 
 ## 🏅 Achievements
 
@@ -179,17 +253,27 @@ An NLP-based web application that analyzes English text and identifies its emoti
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:0EA5E9,100:302b63&height=2&section=header" width="100%" alt=""/>
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=Mawaz%20Abdul%20Salam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+I'm open to work, internships, and collaborations. If you're building something in AI, full-stack, or security, I'd love to hear about it.
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mawaz-abdul-salam"><img src="https://img.shields.io/badge/LinkedIn-Mawaz%20Abdul%20Salam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/abeymuwz"><img src="https://img.shields.io/badge/X-@abeymuwz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.instagram.com/_.mawaz"><img src="https://img.shields.io/badge/Instagram-@__.mawaz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<br/><br/>
+
+<sub>📍 Lahore (LHR), Pakistan</sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:4a0e0e,100:8b1a1a&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=26&fontColor=ff4d4d&fontAlignY=68&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=26&fontColor=9be7ff&fontAlignY=68&animation=twinkling" width="100%" alt="footer"/>
