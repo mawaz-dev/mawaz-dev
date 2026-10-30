@@ -1,183 +1,128 @@
-<!-- ============ REPLACE THESE BEFORE PUSHING ============
-  YOUR_USERNAME  -> your GitHub username
-  Social links   -> your real profile URLs
-  Delete any social badge you don't use
-======================================================= -->
+<!-- ============ REPLACE BEFORE PUSHING ============
+  YOUR_USERNAME -> your GitHub username (find & replace all)
+  Social links  -> your real URLs; delete any you don't use
+=================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mawaz+%F0%9F%91%8B;BSCS+Graduate+%7C+University+of+Lahore;AI+%26+Full-Stack+Developer;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Graduate%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor=9be7ff" width="100%" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=9BE7FF&center=true&vCenter=true&width=620&height=40&lines=Building+intelligent+software+%F0%9F%A7%A0;Turning+ideas+into+working+products+%E2%9A%99%EF%B8%8F;Open+to+work+%26+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=2c5364&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=2c5364&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=flat-square&color=2c5364&logo=github" alt="stars"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&label=Stars)
+## 👋 About
 
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I'm **Mawaz**, a Computer Science graduate (**BSCS, University of Lahore**, 2022–2026) from **Lahore, Pakistan**.
 
-## 👨‍💻 About Me
+I enjoy building practical software with a focus on **AI, web applications, and clean engineering**. I'm looking for opportunities where I can ship real products and keep growing.
 
-- 🎓 **BSCS Graduate** from the **University of Lahore** (Batch Fall 2022–2026)
-- 📍 Based in **Lahore, Pakistan**
-- 🔭 Building projects in **AI, web development, and software engineering**
-- 🌱 Learning: **System design, cloud, and advanced AI/ML**
-- 💬 Ask me about: **Python, JavaScript, React, AI/ML**
-- 📫 Reach me: **your.email@example.com**
-- ⚡ Fun fact: I also love gaming 🎮
+- 🎓 BSCS Graduate · Batch Fall 2022–2026
+- 📍 Lahore, Pakistan
+- 🌱 Learning: system design, cloud, advanced AI/ML
+- 📫 **mawazabdulsalam@gmail.com**
 
----
+</td>
+<td width="40%" align="center" valign="middle">
 
-## 🌐 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&langs_count=6" width="95%" alt="top languages"/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_UPWORK)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**AI / ML & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Databases, Cloud & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 🧰 Tech Stack
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,react,nextjs,tailwind,nodejs,express,fastapi,flask&perline=7" alt="languages and frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,postgres,mysql,firebase,docker,aws,git,linux,vscode,figma,postman&perline=7" alt="tools"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=9be7ff&icon_color=9be7ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=9be7ff&fire=ff9f43&currStreakLabel=9be7ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9be7ff&line=2c5364&point=ffffff&area=true&area_color=2c5364&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Project One**](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does | `Python` `FastAPI` `React` |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does | `Node.js` `MongoDB` |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does | `TensorFlow` `OpenCV` |
-
-<!-- Or use pinned repo cards:
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project one"/>
 </a>
--->
-
----
-
-## ⏱️ Weekly Coding Activity (optional – needs WakaTime)
-
-<!-- Set up WakaTime, then uncomment:
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com)
--->
-
----
-
-## 💬 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## ☕ Support / Hire Me
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![Hire Me](https://img.shields.io/badge/Open_to-Work-brightgreen?style=for-the-badge)](mailto:your.email@example.com)
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project two"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/YOUR_USERNAME/REPO_THREE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project three"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project four"/>
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+## 🌐 Let's Connect
 
-⭐ *Thanks for visiting! Feel free to follow and star my repos.* ⭐
+<div align="center">
+
+<a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<br/>
+<a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://wa.me/92XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer"/>
