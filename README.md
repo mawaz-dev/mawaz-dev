@@ -127,13 +127,6 @@ Short one-line description of what it does and why it matters.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E6FB0,100:2F5D9B&height=3" width="100%" alt="divider" />
 
-## 🏅 Certifications
-
-- 🛡️ **Foundations of Cybersecurity**: Google (Coursera), Sep 2024
-- 🔐 **Cybersecurity**: ADBI Institute, Jul 2024
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E6FB0,100:2F5D9B&height=3" width="100%" alt="divider" />
-
 ## 🤝 Let's Work Together
 
 > **Have a project in mind?**
@@ -185,10 +178,10 @@ Short one-line description of what it does and why it matters.
 
 <br/>
 
-[⬆ Back to top](#)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E6FB0,50:1F4478,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 
-<sub>© 2026 Mawaz Abdulsalam. All rights reserved. Made with 💜 by Mawaz</sub>
+<sub>© 2026 Mawaz Abdulsalam. All rights reserved. 
 
 </div>
