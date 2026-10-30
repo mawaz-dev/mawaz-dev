@@ -1,4 +1,5 @@
 <!-- Theme: jacket gradient (orange -> cream -> denim blue). Colors shift section by section as you scroll. -->
+<a id="top"></a>
 
 <div align="center">
 
@@ -12,11 +13,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mawaz-dev&label=Profile%20Views&base=1086&color=E8832A&style=for-the-badge)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-E8832A?style=for-the-badge&labelColor=0D1117)](mailto:mawazabdulsalam@gmail.com)
+
 <br/>
+
+**[Home](#top)** &nbsp;•&nbsp; **[About](#about)** &nbsp;•&nbsp; **[Skills](#skills)** &nbsp;•&nbsp; **[Cybersecurity](#cybersecurity)** &nbsp;•&nbsp; **[Projects](#projects)** &nbsp;•&nbsp; **[Contact](#contact)**
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8832A,100:F4A259&height=3" width="100%" alt="divider" />
 
+<a id="about"></a>
 ## 🟧 `</>` About Me
 
 ```js
@@ -33,6 +39,7 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A259,100:E6CFA9&height=3" width="100%" alt="divider" />
 
+<a id="skills"></a>
 ## 🟠 Technologies I Work With
 
 <div align="center">
@@ -64,6 +71,7 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6CFA9,100:7FA8D9&height=3" width="100%" alt="divider" />
 
+<a id="cybersecurity"></a>
 ## 🛡️ Cybersecurity
 
 ```bash
@@ -93,35 +101,61 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FA8D9,100:5B8BC9&height=3" width="100%" alt="divider" />
+
+<a id="projects"></a>
 ## 🔵 Featured Projects
+
+<div align="center">
+
+**[01 · Wheelchair Navigation](#project-01)** &nbsp;•&nbsp; **[02 · Plottrade](#project-02)** &nbsp;•&nbsp; **[All Repositories ↗](https://github.com/mawaz-dev?tab=repositories)**
+
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
+<a id="project-01"></a>
 ### `01` Smart Assistant for Autonomous Wheelchair Path Navigation
 Final Year Project: an autonomous wheelchair navigation system built on ROS2. I worked on the **database**, **NLP**, and **voice** components.
 
 ![ROS2](https://img.shields.io/badge/ROS2-0D1117?style=flat-square&logo=ros&logoColor=5B8BC9)
 ![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&logoColor=5B8BC9)
 ![Voice](https://img.shields.io/badge/Voice-0D1117?style=flat-square&logoColor=5B8BC9)
+![SQL](https://img.shields.io/badge/Database-0D1117?style=flat-square&logo=postgresql&logoColor=5B8BC9)
 
-[View Project ↗](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair)
+[![View Project](https://img.shields.io/badge/View%20Project-↗-5B8BC9?style=for-the-badge&labelColor=0D1117)](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair)
 
   </td>
   <td width="50%" valign="top">
 
+<a id="project-02"></a>
 ### `02` Plottrade
-Short one-line description of what it does and why it matters.
+[One line: what Plottrade does and who it's for.] [One line: your role and what you built.]
 
 ![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
+![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
+![Tech](https://img.shields.io/badge/Tech-0D1117?style=flat-square&logoColor=5B8BC9)
+
+[![View Project](https://img.shields.io/badge/View%20Project-↗-5B8BC9?style=for-the-badge&labelColor=0D1117)](https://github.com/mawaz-dev/Plottrade)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-●-3E6FB0?style=for-the-badge&labelColor=0D1117)](#)
 
   </td>
   </tr>
 </table>
 
+<div align="center">
+
+**[⬅ Cybersecurity](#cybersecurity)** &nbsp;•&nbsp; **[⬆ Back to top](#top)** &nbsp;•&nbsp; **[Contact ➡](#contact)**
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E6FB0,100:2F5D9B&height=3" width="100%" alt="divider" />
 
+<a id="contact"></a>
 ## 🤝 Let's Work Together
 
 > **Have a project in mind?**
@@ -164,9 +198,13 @@ Short one-line description of what it does and why it matters.
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7FA8D9&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together;Star+%E2%AD%90+a+repo+if+you+liked+it;Stay+curious.+Keep+shipping." alt="Footer typing" />
+
 <br/><br/>
+
+[⬆ Back to top](#top)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E6FB0,50:1F4478,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 
-<sub>© 2026 Mawaz Abdulsalam. All rights reserved. 
+<sub>© 2026 Mawaz Abdulsalam. All rights reserved.</sub>
 
 </div>
