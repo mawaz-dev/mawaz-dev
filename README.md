@@ -1,118 +1,154 @@
+<!-- Replace every YOUR_USERNAME with your GitHub username -->
+
 <div align="center">
 
-<img src="./banner.svg" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A23,50:4C3FD1,100:8B5CF6&height=200&section=header&text=Hi,%20I'm%20Mawaz&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=I%20build%20things%20with%20code.&descSize=22&descAlignY=60" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=BSCS+Student+%7C+University+of+Lahore;Autonomous+Navigation+%26+AI+Enthusiast;Cybersecurity+Learner;Always+building%2C+always+learning" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D5DFB&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6D5DFB&labelColor=0A0A23)
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-6D5DFB?style=for-the-badge&labelColor=0A0A23)](mailto:mawazabdulsalam@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download%20CV-⬇-0A0A23?style=for-the-badge&color=0A0A23&labelColor=0A0A23&logoColor=white)](#)
 
 </div>
 
-<h2 align="center">Hi 👋, I'm Mawaz</h2>
+---
 
-<h4 align="center">Software Engineer | AI • Web • Cybersecurity</h4>
+## `</>` About Me
 
-<p align="center"><code>Build. Break. Secure.</code></p>
+```js
+const developer = {
+  name: "Mawaz Abdulsalam",
+  education: "BSCS, University of Lahore",
+  graduation: 2026,
+  interests: ["Autonomous Systems", "AI / ML", "NLP", "Cybersecurity"],
+  passion: "Building things that make a difference",
+};
+```
 
-<p align="center">Building reliable software, robotics and AI systems with a security-first mindset.</p>
+I'm a Computer Science student who enjoys turning ideas into working software. My Final Year Project focuses on **autonomous wheelchair path navigation**, and I'm especially interested in AI/ML, voice and NLP interfaces, and information security.
 
-<h2 align="center">🚀 About Me</h2>
+---
+
+## 🧰 Technologies I Work With
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-0A0A23?style=for-the-badge&logo=cplusplus&logoColor=8B5CF6)
+![C](https://img.shields.io/badge/C-0A0A23?style=for-the-badge&logo=c&logoColor=8B5CF6)
+![Python](https://img.shields.io/badge/Python-0A0A23?style=for-the-badge&logo=python&logoColor=8B5CF6)
+![ROS2](https://img.shields.io/badge/ROS2-0A0A23?style=for-the-badge&logo=ros&logoColor=8B5CF6)
+![CUDA](https://img.shields.io/badge/CUDA-0A0A23?style=for-the-badge&logo=nvidia&logoColor=8B5CF6)
+![OpenMP](https://img.shields.io/badge/OpenMP-0A0A23?style=for-the-badge&logoColor=8B5CF6)
+![SQL](https://img.shields.io/badge/SQL-0A0A23?style=for-the-badge&logo=postgresql&logoColor=8B5CF6)
+![Git](https://img.shields.io/badge/Git-0A0A23?style=for-the-badge&logo=git&logoColor=8B5CF6)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=8B5CF6)
+![Linux](https://img.shields.io/badge/Linux-0A0A23?style=for-the-badge&logo=linux&logoColor=8B5CF6)
+
+</div>
+
+---
+
+## 🎯 Areas I Master
+
+| Area | Topics |
+|:--|:--|
+| 🤖 **AI / ML** | Neural networks, CNNs, genetic algorithms, clustering, classification |
+| ⛏️ **Data Mining** | PCA, TF-IDF, K-means, Naive Bayes, decision trees |
+| ⚡ **Parallel Computing** | OpenMP, CUDA, concurrent C++ |
+| 🔐 **Security** | Cyber threat intelligence, RSA, access control, IDS |
+| 🧪 **Software Testing** | Requirements specs, test design |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&icon_color=6D5DFB&text_color=C9D1D9&ring_color=8B5CF6" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0A0A23&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0A0A23&ring=8B5CF6&fire=6D5DFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td valign="middle" width="62%">
+  <tr>
+    <td width="50%" valign="top">
 
-**Mawaz**, here: a BSCS graduate from the University of Lahore (2022–2026), based in Lahore, Pakistan.
+### `01` Smart Assistant for Autonomous Wheelchair Path Navigation
+Final Year Project: an autonomous wheelchair navigation system built on ROS2. I worked on the **database**, **NLP**, and **voice** components.
 
-I enjoy building practical, working software, from an autonomous ROS 2 wheelchair with LiDAR navigation to machine learning web apps and a live real estate marketplace.
+![ROS2](https://img.shields.io/badge/ROS2-0A0A23?style=flat-square&logo=ros&logoColor=8B5CF6)
+![NLP](https://img.shields.io/badge/NLP-0A0A23?style=flat-square&logoColor=8B5CF6)
+![Voice](https://img.shields.io/badge/Voice-0A0A23?style=flat-square&logoColor=8B5CF6)
 
-Currently, I'm going deeper into **cybersecurity and ethical hacking** (OWASP Top 10, network analysis, Kali Linux, Nmap, Wireshark, Burp Suite), while strengthening my skills in **AI/ML and full-stack development**.
+[View Project ↗](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair)
 
-My goal is simple: write clean, secure code, ship real products, and grow into an engineer who builds systems that last.
+  </td>
+  <td width="50%" valign="top">
 
-</td>
-<td align="center" valign="middle" width="38%">
+### `02` Project Name
+Short one-line description of what it does and why it matters.
 
-<img src="./about.svg" alt="pixel lock" width="220"/>
+![Tech](https://img.shields.io/badge/Tech-0A0A23?style=flat-square&logoColor=8B5CF6)
 
-</td>
-</tr>
+[View Project ↗](#)
+
+  </td>
+  </tr>
 </table>
 
-<h2 align="center">🤝 Connect</h2>
+---
 
-<p align="center">
-  <a href="https://github.com/abeymuwz"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/search/results/people/?keywords=Mawaz%20Abdul%20Salam"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:mawazabdulsalam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-</p>
+## 🏅 Certifications
 
-<h2 align="center">💻 Tech Stack</h2>
+- 🛡️ **Foundations of Cybersecurity**: Google (Coursera), Sep 2024
+- 🔐 **Cybersecurity**: ADBI Institute, Jul 2024
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,tailwind,nodejs,fastapi,flask&perline=11" alt="languages and web"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,ros,raspberrypi,mongodb,postgres,firebase,docker,git,linux&perline=11" alt="ai and tools"/>
-</p>
+---
 
-<h2 align="center">🛠️ Featured Projects</h2>
+## 🤝 Let's Work Together
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Have a project in mind?**
+> I'm always open to discussing new projects, internships, and opportunities. Let's create something amazing together!
 
-**[ROS 2 Autonomous Smart Wheelchair](https://github.com/abeymuwz/ROS-2-Autonomous-Smart-Wheelchair)**
-<br/>SLAM navigation on 2D LiDAR, MPU6050 fall detection, and a React + Firebase telemetry dashboard with mobile voice control.
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-↗-6D5DFB?style=for-the-badge&labelColor=0A0A23)](mailto:mawazabdulsalam@gmail.com)
 
-**[Plottrade](https://github.com/abeymuwz/Plottrade)**
-<br/>Real estate marketplace for realtors, buyers and landlords. Live at [plottrade.aavys.app](https://plottrade.aavys.app/).
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**[AI Travel Tourist Guide](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)**
-<br/>Recommends attractions and suggests personalized itineraries using AI.
+## 🌐 Follow Me
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-**[Diabetes Prediction](https://github.com/abeymuwz/Diabetes_prediction)**
-<br/>Machine learning web app that predicts diabetes risk from health information.
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=8B5CF6)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0A0A23?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:mawazabdulsalam@gmail.com)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</div>
 
-**[English Sentiment Analysis](https://github.com/abeymuwz/English-Sentiment-Analysis-NLP-)**
-<br/>NLP web app that identifies the emotional tone of English text.
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4C3FD1,100:0A0A23&height=120&section=footer" width="100%" alt="footer" />
 
-**[E-Commerce Dashboard](https://github.com/abeymuwz/E-Commerce-Dashboard)**
-<br/>Dashboard to manage and monitor online business operations.
+*Made with 💜 by Mawaz*
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**[National University Admission Platform](https://github.com/abeymuwz/National-University-Admission-Platform)**
-<br/>Web system that streamlines the university admission process.
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abeymuwz&theme=dark&hide_border=true&background=161B22" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abeymuwz&label=Profile+views&color=30363d&style=flat-square" alt="Profile views"/>
-</p>
-
+</div>
