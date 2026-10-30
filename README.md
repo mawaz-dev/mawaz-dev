@@ -24,10 +24,6 @@
 
 ## 👋 About
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 I'm **Mawaz**, a Computer Science graduate (**BSCS, University of Lahore**, 2022–2026) from **Lahore, Pakistan**.
 
 I enjoy building practical software with a focus on **AI, web applications, and clean engineering**. I'm looking for opportunities where I can ship real products and keep growing.
@@ -36,15 +32,6 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 - 📍 Lahore, Pakistan
 - 🌱 Learning: system design, cloud, advanced AI/ML
 - 📫 **mawazabdulsalam@gmail.com**
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeymuwz&layout=donut-vertical&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&langs_count=6" width="95%" alt="top languages"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -64,10 +51,11 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abeymuwz&show_icons=true&theme=transparent&hide_border=true&title_color=9be7ff&icon_color=9be7ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="170" src="https://streak-stats.demolab.com/?user=abeymuwz&theme=transparent&hide_border=true&ring=9be7ff&fire=ff9f43&currStreakLabel=9be7ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abeymuwz&bg_color=0d1117&color=9be7ff&line=2c5364&point=ffffff&area=true&area_color=2c5364&hide_border=true" width="100%" alt="activity graph"/>
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/9be7ff/abeymuwz" width="95%" alt="contribution chart"/>
 
 </div>
 
@@ -77,27 +65,25 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 <table>
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/abeymuwz/REPO_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_ONE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project one"/>
-</a>
+<td width="50%" valign="top">
+
+### 🦽 [ROS 2 Autonomous Smart Wheelchair](https://github.com/abeymuwz/ROS-2-Autonomous-Smart-Wheelchair)
+
+An end-to-end autonomous smart wheelchair designed as assistive technology. Features predictive SLAM navigation with 2D LiDAR, real-time MPU6050 fall detection, and a React + Firebase telemetry dashboard with mobile voice control.
+
+<img src="https://skillicons.dev/icons?i=ros,raspberrypi,python,react,firebase" alt="wheelchair tech"/>
+
+[**View repository →**](https://github.com/abeymuwz/ROS-2-Autonomous-Smart-Wheelchair)
+
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/abeymuwz/REPO_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_TWO&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project two"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/abeymuwz/REPO_THREE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_THREE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project three"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/abeymuwz/REPO_FOUR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_FOUR&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project four"/>
-</a>
+<td width="50%" valign="top">
+
+### 📈 [Plottrade](https://github.com/abeymuwz/Plottrade)
+
+Trading and charting project. Full details are in the repository.
+
+[**View repository →**](https://github.com/abeymuwz/Plottrade)
+
 </td>
 </tr>
 </table>
@@ -109,17 +95,7 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 <div align="center">
 
 <a href="mailto:mawazabdulsalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<br/>
-<a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://wa.me/92XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://www.linkedin.com/search/results/people/?keywords=Mawaz%20Abdul%20Salam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
