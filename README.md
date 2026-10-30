@@ -1,5 +1,5 @@
 <!-- ============ REPLACE BEFORE PUSHING ============
-  YOUR_USERNAME -> your GitHub username (find & replace all)
+  abeymuwz -> your GitHub username (find & replace all)
   Social links  -> your real URLs; delete any you don't use
 =================================================== -->
 
@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=2c5364&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=2c5364&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=flat-square&color=2c5364&logo=github" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=2c5364&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=2c5364&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=2c5364&logo=github" alt="stars"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
 
 </div>
@@ -40,7 +40,7 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&langs_count=6" width="95%" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeymuwz&layout=donut-vertical&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&langs_count=6" width="95%" alt="top languages"/>
 
 </td>
 </tr>
@@ -64,10 +64,10 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=9be7ff&icon_color=9be7ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=9be7ff&fire=ff9f43&currStreakLabel=9be7ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abeymuwz&show_icons=true&theme=transparent&hide_border=true&title_color=9be7ff&icon_color=9be7ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=abeymuwz&theme=transparent&hide_border=true&ring=9be7ff&fire=ff9f43&currStreakLabel=9be7ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9be7ff&line=2c5364&point=ffffff&area=true&area_color=2c5364&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abeymuwz&bg_color=0d1117&color=9be7ff&line=2c5364&point=ffffff&area=true&area_color=2c5364&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -78,25 +78,25 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project one"/>
+<a href="https://github.com/abeymuwz/REPO_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_ONE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project one"/>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project two"/>
+<a href="https://github.com/abeymuwz/REPO_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_TWO&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project two"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/YOUR_USERNAME/REPO_THREE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project three"/>
+<a href="https://github.com/abeymuwz/REPO_THREE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_THREE&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project three"/>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project four"/>
+<a href="https://github.com/abeymuwz/REPO_FOUR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abeymuwz&repo=REPO_FOUR&theme=transparent&hide_border=true&title_color=9be7ff&text_color=c9d1d9&icon_color=9be7ff" alt="project four"/>
 </a>
 </td>
 </tr>
