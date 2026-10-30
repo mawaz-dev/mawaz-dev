@@ -5,17 +5,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Graduate%20%7C%20AI%20and%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor=9be7ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,50:0f3d2a,100:14532d&height=220&section=header&text=Mawaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Graduate%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descSize=22&descAlignY=62&descColor=9be7ff" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=9BE7FF&center=true&vCenter=true&width=620&height=40&lines=Building+intelligent+software+%F0%9F%A7%A0;Turning+ideas+into+working+products+%E2%9A%99%EF%B8%8F;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=620&height=40&lines=Securing+systems%2C+one+vulnerability+at+a+time+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+and+Ethical+Hacking+Enthusiast+%F0%9F%94%90;Building+intelligent+software+with+AI+%F0%9F%A7%A0;Open+to+work+and+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=2c5364&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=2c5364&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=2c5364&logo=github" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=14532d&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=14532d&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=14532d&logo=github" alt="stars"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
 
 </div>
@@ -26,11 +26,12 @@
 
 I'm **Mawaz**, a Computer Science graduate (**BSCS, University of Lahore**, 2022–2026) from **Lahore, Pakistan**.
 
-I enjoy building practical software with a focus on **AI, web applications, and clean engineering**. I'm looking for opportunities where I can ship real products and keep growing.
+I enjoy building practical software with a focus on **AI, web applications, and clean engineering**, and I'm passionate about **cybersecurity and ethical hacking**: understanding how systems break so I can build them to be secure. I'm looking for opportunities where I can ship real products and keep growing.
 
 - 🎓 BSCS Graduate · Batch Fall 2022–2026
 - 📍 Lahore, Pakistan
-- 🌱 Learning: system design, cloud, advanced AI/ML
+- 🌱 Learning: cybersecurity, system design, cloud, advanced AI/ML
+- 🔐 Interested in: ethical hacking, web and network security
 - 📫 **mawazabdulsalam@gmail.com**
 
 <br/>
@@ -44,6 +45,43 @@ I enjoy building practical software with a focus on **AI, web applications, and 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,postgres,mysql,firebase,docker,aws,git,linux,vscode,figma,postman&perline=7" alt="tools"/>
 
 </div>
+
+<br/>
+
+## 🔐 Cybersecurity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Focus areas**
+
+- 🕸️ Web application security (OWASP Top 10)
+- 🌐 Network security and traffic analysis
+- 🛡️ Ethical hacking and penetration testing
+- 🐧 Linux, Bash and security scripting
+- 🔑 Secure coding and authentication
+- 🔍 Vulnerability assessment and digital forensics basics
+
+</td>
+<td width="50%" valign="top">
+
+**🧪 Tools I'm exploring**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+</td>
+</tr>
+</table>
+
+> 🛡️ I practice ethical hacking only on systems I own or have explicit permission to test.
 
 <br/>
 
@@ -87,4 +125,4 @@ Trading and charting project. Full details are in the repository.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,50:0f3d2a,100:14532d&height=120&section=footer" width="100%" alt="footer"/>
