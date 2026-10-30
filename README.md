@@ -64,7 +64,8 @@ An end-to-end autonomous smart wheelchair designed as assistive technology. Feat
 
 ### 📈 [Plottrade](https://github.com/abeymuwz/Plottrade)
 
-Trading and charting project. Full details are in the repository.
+Trading and charting tool that turns market data into clear, interactive visuals for faster, better-informed decisions.
+Built to keep price analysis simple, fast, and easy to read at a glance..
 
 [**View repository →**](https://github.com/abeymuwz/Plottrade)
 
