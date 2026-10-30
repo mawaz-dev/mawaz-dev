@@ -169,10 +169,7 @@ Short one-line description of what it does and why it matters.
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7FA8D9&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together;Star+%E2%AD%90+a+repo+if+you+liked+it;Stay+curious.+Keep+shipping." alt="Footer typing" />
-
 <br/><br/>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E6FB0,50:1F4478,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 
 <sub>© 2026 Mawaz Abdulsalam. All rights reserved. 
