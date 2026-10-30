@@ -16,7 +16,6 @@
 <br/>
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-6D5DFB?style=for-the-badge&labelColor=0A0A23)](mailto:mawazabdulsalam@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download%20CV-⬇-0A0A23?style=for-the-badge&color=0A0A23&labelColor=0A0A23&logoColor=white)](#)
 
 </div>
 
