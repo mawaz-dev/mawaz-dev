@@ -14,8 +14,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=abeymuwz&label=PROFILE+VIEWS&color=2c5364&style=flat-square&base=1172" alt="views"/>
-<img src="https://img.shields.io/github/followers/abeymuwz?label=FOLLOWERS&style=flat-square&color=2c5364&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/abeymuwz?label=STARS&style=flat-square&color=2c5364&logo=github" alt="stars"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=flat-square" alt="status"/>
 
 </div>
