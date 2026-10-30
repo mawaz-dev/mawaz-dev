@@ -1,12 +1,24 @@
-<!-- Theme: hacker terminal (matrix green -> teal -> cyan). Colors shift section by section as you scroll. -->
+<!-- Mawaz Abdulsalam | GitHub profile README v2 | hacker terminal theme -->
+<!-- Needs: README.md in the repo root + the assets/ folder next to it -->
 <a id="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D2E,100:00FF41&height=210&section=header&text=Hi,%20I'm%20Mawaz&fontSize=52&fontColor=00FF41&fontAlignY=38&desc=root@mawaz:~%23%20I%20build%20things%20with%20code&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Mawaz Abdulsalam — BSCS Student, AI and Cybersecurity" />
+
+<br/>
+
+<a href="#top"><img src="assets/nav-home.svg" height="46" alt="Home" /></a>
+<a href="#about"><img src="assets/nav-about.svg" height="46" alt="About" /></a>
+<a href="#skills"><img src="assets/nav-skills.svg" height="46" alt="Skills" /></a>
+<a href="#security"><img src="assets/nav-security.svg" height="46" alt="Security" /></a>
+<a href="#projects"><img src="assets/nav-projects.svg" height="46" alt="Projects" /></a>
+<a href="#contact"><img src="assets/nav-contact.svg" height="46" alt="Contact" /></a>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=%3E+whoami;%3E+BSCS+Student+%7C+University+of+Lahore;%3E+Autonomous+Navigation+%26+AI;%3E+Cybersecurity+Learner;%3E+sudo+build+--future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+whoami;%3E+BSCS+Student+%7C+University+of+Lahore;%3E+Autonomous+Navigation+%26+AI;%3E+Cybersecurity+Learner;%3E+sudo+build+--future" alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,16 +26,63 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mawaz-dev&label=Profile%20Views&base=1086&color=00FF41&style=for-the-badge)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-↗-00FF41?style=for-the-badge&labelColor=000000)](mailto:mawazabdulsalam@gmail.com)
 
-<br/>
-
-**[Home](#top)** &nbsp;•&nbsp; **[About](#about)** &nbsp;•&nbsp; **[Skills](#skills)** &nbsp;•&nbsp; **[Cybersecurity](#cybersecurity)** &nbsp;•&nbsp; **[Projects](#projects)** &nbsp;•&nbsp; **[Contact](#contact)**
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:39FF14&height=3" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
+<!-- ============ NAVIGATION HUB ============ -->
+<details>
+<summary><b>🧭 Navigation Hub</b> &nbsp;<sub>(click to open the table of contents and quick-jump keys)</sub></summary>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**📚 Table of contents**
+
+1. [About me](#about)
+2. [Tech stack](#skills)
+3. [Areas I master](#areas)
+4. [Cybersecurity](#security)
+5. [Featured projects](#projects)
+6. [Let's work together](#contact)
+7. [Quick info](#info)
+
+</td>
+<td valign="top" width="50%">
+
+**⌨️ Quick-jump keys**
+
+| Keys | Go to |
+|:--|:--|
+| <kbd>g</kbd> <kbd>a</kbd> | [About](#about) |
+| <kbd>g</kbd> <kbd>s</kbd> | [Skills](#skills) |
+| <kbd>g</kbd> <kbd>x</kbd> | [Security](#security) |
+| <kbd>g</kbd> <kbd>p</kbd> | [Projects](#projects) |
+| <kbd>g</kbd> <kbd>c</kbd> | [Contact](#contact) |
+| <kbd>g</kbd> <kbd>t</kbd> | [Top](#top) |
+
+<sub>Decorative: GitHub can't bind real keys, so click the links.</sub>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ ABOUT ============ -->
 <a id="about"></a>
 ## 🟩 `</>` About Me
+
+<div align="center">
+  <img src="assets/terminal.svg" width="82%" alt="Animated terminal" />
+</div>
+
+<br/>
 
 ```bash
 ┌──(mawaz㉿kali)-[~]
@@ -39,8 +98,13 @@
 
 I'm a Computer Science student who enjoys turning ideas into working software. My Final Year Project focuses on **autonomous wheelchair path navigation**, and I'm especially interested in AI/ML, voice and NLP interfaces, and information security.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00E676&height=3" width="100%" alt="divider" />
+<p align="center">
+  <a href="#top">⬆ Top</a> &nbsp;|&nbsp; <a href="#skills">Next: Tech Stack »</a>
+</p>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ SKILLS ============ -->
 <a id="skills"></a>
 ## 🟢 Tech Stack
 
@@ -53,8 +117,8 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-5C6BC0?style=for-the-badge&logoColor=white)
@@ -67,21 +131,57 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00E676&height=3" width="100%" alt="divider" />
+<a id="areas"></a>
+### 🟩 Areas I Master <sub>(click any row to expand)</sub>
 
-## 🟩 Areas I Master
+<details>
+<summary><b>🤖 AI / ML</b> — neural networks, CNNs, genetic algorithms</summary>
+<br/>
 
-| Area | Topics |
-|:--|:--|
-| 🤖 **AI / ML** | Neural networks, CNNs, genetic algorithms, clustering, classification |
-| ⛏️ **Data Mining** | PCA, TF-IDF, K-means, Naive Bayes, decision trees |
-| ⚡ **Parallel Computing** | OpenMP, CUDA, concurrent C++ |
-| 🔐 **Security** | Cyber threat intelligence, RSA, access control, IDS |
-| 🧪 **Software Testing** | Requirements specs, test design |
+Backpropagation in neural networks, CNN forward-pass walkthroughs, genetic algorithms, and Best First Search.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:00C9A7&height=3" width="100%" alt="divider" />
+</details>
 
-<a id="cybersecurity"></a>
+<details>
+<summary><b>⛏️ Data Mining</b> — PCA, TF-IDF, clustering, classification</summary>
+<br/>
+
+PCA, TF-IDF, K-means, agglomerative hierarchical clustering, Naive Bayes, ID3 decision trees, and artificial neural networks.
+
+</details>
+
+<details>
+<summary><b>⚡ Parallel &amp; Distributed Computing</b> — OpenMP, CUDA, concurrent C++</summary>
+<br/>
+
+OpenMP programming in C, CUDA kernel programming, and mutex-based race-condition fixes in concurrent C++.
+
+</details>
+
+<details>
+<summary><b>🔐 Information Security</b> — CTI, RSA, access control, IDS</summary>
+<br/>
+
+Cyber threat intelligence, RSA, access control matrices, digital signatures, intrusion detection systems, and the Bell-LaPadula model.
+
+</details>
+
+<details>
+<summary><b>🧪 Software Testing</b> — requirements and test design</summary>
+<br/>
+
+Functional requirements specification (FRS) for a login and authentication module.
+
+</details>
+
+<p align="center">
+  <a href="#about">« Prev: About</a> &nbsp;|&nbsp; <a href="#top">⬆ Top</a> &nbsp;|&nbsp; <a href="#security">Next: Security »</a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ SECURITY ============ -->
+<a id="security"></a>
 ## 🛡️ Cybersecurity
 
 ```bash
@@ -92,14 +192,24 @@ $ cat focus.txt
 Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 ```
 
-| Domain | What I've studied |
-|:--|:--|
-| 🔑 **Cryptography** | RSA, digital signatures |
-| 🧱 **Access Control** | Access control matrices, Bell-LaPadula model |
-| 🚨 **Detection** | Intrusion Detection Systems (IDS) |
-| 🕵️ **Threat Intelligence** | Cyber Threat Intelligence (CTI) concepts |
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Tools & platforms**
+**🔑 Cryptography**<br/>RSA, digital signatures
+
+**🧱 Access Control**<br/>Access control matrices, Bell-LaPadula
+
+</td>
+<td valign="top" width="50%">
+
+**🚨 Detection**<br/>Intrusion Detection Systems (IDS)
+
+**🕵️ Threat Intelligence**<br/>Cyber Threat Intelligence (CTI) concepts
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -115,8 +225,22 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:00B8D4&height=3" width="100%" alt="divider" />
+<details>
+<summary><b>🏅 Certifications</b> (click to expand)</summary>
+<br/>
 
+- 🛡️ **Foundations of Cybersecurity** — Google (Coursera), Sep 2024
+- 🔐 **Cybersecurity** — ADBI Institute, Jul 2024
+
+</details>
+
+<p align="center">
+  <a href="#skills">« Prev: Tech Stack</a> &nbsp;|&nbsp; <a href="#top">⬆ Top</a> &nbsp;|&nbsp; <a href="#projects">Next: Projects »</a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ PROJECTS ============ -->
 <a id="projects"></a>
 ## 🟢 Featured Projects
 
@@ -129,17 +253,15 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 <br/>
 
 <table>
-  <tr>
-    <td width="50%" valign="top" align="center">
+<tr>
+<td width="50%" valign="top" align="center">
 
 <a id="project-01"></a>
 ### `01` Smart Assistant for Autonomous Wheelchair Path Navigation
 
 <a href="https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahimzulfiqar&repo=ROS2-Autonomous-Wheelchair&hide_border=false&border_radius=12&bg_color=000000&border_color=0097A7&title_color=00C9A7&icon_color=00B8D4&text_color=C9D1D9&show_owner=true" alt="FYP repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahimzulfiqar&repo=ROS2-Autonomous-Wheelchair&border_radius=12&bg_color=000000&border_color=00C9A7&title_color=00FF41&icon_color=00B8D4&text_color=C9D1D9&show_owner=true" alt="FYP repo card" />
 </a>
-
-Final Year Project: an autonomous wheelchair navigation system built on ROS2. I worked on the **database**, **NLP**, and **voice** components.
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00B8D4?style=flat-square&logoColor=white)
@@ -148,17 +270,15 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 
 [![View Project](https://img.shields.io/badge/View%20Project-↗-00B8D4?style=for-the-badge&labelColor=000000)](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair)
 
-  </td>
-  <td width="50%" valign="top" align="center">
+</td>
+<td width="50%" valign="top" align="center">
 
 <a id="project-02"></a>
 ### `02` Plottrade
 
 <a href="https://github.com/mawaz-dev/Plottrade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mawaz-dev&repo=Plottrade&hide_border=false&border_radius=12&bg_color=000000&border_color=0097A7&title_color=00C9A7&icon_color=00B8D4&text_color=C9D1D9&show_owner=true" alt="Plottrade repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mawaz-dev&repo=Plottrade&border_radius=12&bg_color=000000&border_color=00C9A7&title_color=00FF41&icon_color=00B8D4&text_color=C9D1D9&show_owner=true" alt="Plottrade repo card" />
 </a>
-
-[One line: what Plottrade does and who it's for.] [One line: your role and what you built.]
 
 ![Tech](https://img.shields.io/badge/Tech-00B8D4?style=flat-square&logoColor=white)
 ![Tech](https://img.shields.io/badge/Tech-0097A7?style=flat-square&logoColor=white)
@@ -166,45 +286,52 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 [![View Project](https://img.shields.io/badge/View%20Project-↗-00B8D4?style=for-the-badge&labelColor=000000)](https://github.com/mawaz-dev/Plottrade)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-●-0097A7?style=for-the-badge&labelColor=000000)](#)
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<div align="center">
+<details>
+<summary><b>📂 Project briefs</b> — role, stack and links (click to expand)</summary>
+<br/>
 
-**[⬅ Cybersecurity](#cybersecurity)** &nbsp;•&nbsp; **[⬆ Back to top](#top)** &nbsp;•&nbsp; **[Contact ➡](#contact)**
+| | 01 · Wheelchair Navigation | 02 · Plottrade |
+|:--|:--|:--|
+| **What it is** | Final Year Project: autonomous wheelchair path navigation on ROS2 | [One line: what Plottrade does and who it's for] |
+| **My role** | Database, NLP and voice components | [Your role and what you built] |
+| **Stack** | ROS2, NLP, voice, database | [Technologies] |
+| **Links** | [Source](https://github.com/abdulrahimzulfiqar/ROS2-Autonomous-Wheelchair) | [Source](https://github.com/mawaz-dev/Plottrade) |
 
-</div>
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0097A7,100:00796B&height=3" width="100%" alt="divider" />
+<p align="center">
+  <a href="#security">« Prev: Security</a> &nbsp;|&nbsp; <a href="#top">⬆ Top</a> &nbsp;|&nbsp; <a href="#contact">Next: Contact »</a>
+</p>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ CONTACT ============ -->
 <a id="contact"></a>
 ## 🤝 Let's Work Together
 
-> **Have a project in mind?**
-> I'm always open to discussing new projects, internships, and opportunities. Let's create something amazing together!
+```bash
+$ mail -s "Hello Mawaz" mawazabdulsalam@gmail.com
+> I'm always open to new projects, internships and opportunities.
+> Let's create something amazing together!
+```
 
 <div align="center">
 
-[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-↗-0097A7?style=for-the-badge&labelColor=000000)](mailto:mawazabdulsalam@gmail.com)
+[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-↗-00FF41?style=for-the-badge&labelColor=000000)](mailto:mawazabdulsalam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/mawaz-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:mawazabdulsalam@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00796B,100:00695C&height=3" width="100%" alt="divider" />
-
-## 🌐 Follow Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00B8D4)](https://github.com/mawaz-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00B8D4)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00B8D4)](mailto:mawazabdulsalam@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00695C,100:004D40&height=3" width="100%" alt="divider" />
-
-## 📌 Quick Info
+<a id="info"></a>
+<details open>
+<summary><b>📌 Quick Info</b></summary>
+<br/>
 
 | | |
 |:--|:--|
@@ -214,21 +341,17 @@ Final Year Project: an autonomous wheelchair navigation system built on ROS2. I 
 | 💼 **Open to** | Internships, entry-level roles, collaborations |
 | 🤝 **Ask me about** | C++, parallel computing, data mining, NLP, security fundamentals |
 | 📫 **Reach me** | [mawazabdulsalam@gmail.com](mailto:mawazabdulsalam@gmail.com) |
-| ⚡ **Fun fact** | I turn coffee and curiosity into code |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D40,100:000000&height=3" width="100%" alt="divider" />
+</details>
+
+<p align="center">
+  <a href="#projects">« Prev: Projects</a> &nbsp;|&nbsp; <a href="#top">⬆ Back to top</a>
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=%3E+Thanks+for+stopping+by!;%3E+Let's+build+something+great+together;%3E+git+star+--if-you-liked-it;%3E+Stay+curious.+Keep+shipping.;%3E+connection+closed+%5B+exit+0+%5D" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+Thanks+for+stopping+by!;%3E+Let's+build+something+great+together;%3E+git+star+--if-you-liked-it;%3E+Stay+curious.+Keep+shipping." alt="Footer typing" />
 
-<br/><br/>
-
-[⬆ Back to top](#top)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0097A7,50:004D40,100:000000&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=00FF41&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
-
-<sub>© 2026 Mawaz Abdulsalam. All rights reserved.</sub>
+<img src="assets/footer.svg" width="100%" alt="connection closed" />
 
 </div>
-
