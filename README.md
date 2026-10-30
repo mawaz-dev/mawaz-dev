@@ -110,7 +110,74 @@ A real estate marketplace for realtors, buyers and landlords. Live at [plottrade
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [AI Travel Tourist Guide](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)
+
+Uses artificial intelligence to recommend tourist attractions, suggest travel itineraries, and provide personalized travel information.
+
+[**View repository →**](https://github.com/abeymuwz/AI-Travel-Tourist-Guide)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Diabetes Prediction](https://github.com/abeymuwz/Diabetes_prediction)
+
+A web-based application that uses machine learning to predict diabetes risk from user-provided health information such as glucose levels.
+
+[**View repository →**](https://github.com/abeymuwz/Diabetes_prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce Dashboard](https://github.com/abeymuwz/E-Commerce-Dashboard)
+
+A web-based dashboard designed to manage and monitor online business operations efficiently.
+
+[**View repository →**](https://github.com/abeymuwz/E-Commerce-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [National University Admission Platform](https://github.com/abeymuwz/National-University-Admission-Platform)
+
+A web-based system designed to simplify and streamline the university admission process.
+
+[**View repository →**](https://github.com/abeymuwz/National-University-Admission-Platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [English Sentiment Analysis (NLP)](https://github.com/abeymuwz/English-Sentiment-Analysis-NLP-)
+
+An NLP-based web application that analyzes English text and identifies its emotional tone.
+
+[**View repository →**](https://github.com/abeymuwz/English-Sentiment-Analysis-NLP-)
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+[**See all repositories →**](https://github.com/abeymuwz?tab=repositories)
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+## 🏅 Achievements
+
+<div align="center">
+
+<a href="https://github.com/abeymuwz?tab=achievements"><img src="https://img.shields.io/badge/%F0%9F%A6%88-Pull_Shark-0366d6?style=for-the-badge" alt="Pull Shark"/></a>
+<a href="https://github.com/abeymuwz?tab=achievements"><img src="https://img.shields.io/badge/%F0%9F%A4%A0-Quickdraw-f59e0b?style=for-the-badge" alt="Quickdraw"/></a>
+
+</div>
 
 <br/>
 
