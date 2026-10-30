@@ -172,13 +172,6 @@ Short one-line description of what it does and why it matters.
 
 <br/><br/>
 
-![Last Commit](https://img.shields.io/github/last-commit/mawaz-dev/mawaz-dev?style=flat-square&color=3E6FB0&labelColor=0D1117&label=Last%20Updated)
-![Stars](https://img.shields.io/github/stars/mawaz-dev?style=flat-square&color=3E6FB0&labelColor=0D1117&logo=github&label=Stars)
-![Made with Love](https://img.shields.io/badge/Made%20with-💜-3E6FB0?style=flat-square&labelColor=0D1117)
-
-<br/>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E6FB0,50:1F4478,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 
