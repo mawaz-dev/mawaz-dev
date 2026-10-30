@@ -40,20 +40,28 @@ I'm a Computer Science student who enjoys turning ideas into working software. M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A259,100:E6CFA9&height=3" width="100%" alt="divider" />
 
 <a id="skills"></a>
-## 🟠 Technologies I Work With
+## 🟠 Tech Stack
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=F4A259)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=F4A259)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F4A259)
-![ROS2](https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=F4A259)
-![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=F4A259)
-![OpenMP](https://img.shields.io/badge/OpenMP-0D1117?style=for-the-badge&logoColor=F4A259)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=F4A259)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F4A259)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4A259)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F4A259)
+<img src="https://skillicons.dev/icons?i=cpp,c,python,ros,linux,ubuntu,bash,git,github,vscode,mysql,postgres,tensorflow,pytorch,opencv,kali,notion,figma&perline=9&theme=dark" alt="Tech icons" />
+
+<br/><br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-5C6BC0?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -93,11 +101,15 @@ Cyber Threat Intelligence | Cryptography | Access Control | Intrusion Detection
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=E6CFA9)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=E6CFA9)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=E6CFA9)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=portswigger&logoColor=E6CFA9)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=E6CFA9)
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,python&perline=5&theme=dark" alt="Security tool icons" />
+
+<br/><br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 
